@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vickyvalverdeg
 - 👀 I’m interested in frontend and mobile development
-- 🌱 I’m currently learning react, javascript, typescript.
+- 🌱 My skills: react, javascript, typescript.
 - 💞️ I’m looking to collaborate on amazing project that help people.
 - 📫 How to reach me https://twitter.com/vickyvalverdeg
 
